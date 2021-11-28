@@ -2,14 +2,14 @@
 
 - 🔭 I’m currently working on personal Website in Gatsby.js
 - 🌱 I’m currently learning Java Backend Development and Elixir
-- I'm intressted in Functional Programming
+- I'm interested in Functional Programming
 
 [![Top Langs on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=nstuder)](https://github.com/anuraghazra/github-readme-stats)
 
 Languages I Know:
 * Java (Advanced)
 * Javascript (Advanced)
-* C/C++ (Advanced)
+* C/C++ (Intermediate)
 * Python (Beginner)
 * Haskell (Beginner)
 
