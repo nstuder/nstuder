@@ -11,7 +11,7 @@ Languages I Know:
 * Javascript (Advanced)
 * C/C++ (Intermediate)
 * Python (Beginner)
-* Haskell (Beginner)
+* Functional Programming (Beginner)
 
 <!--
 **nstuder/nstuder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
