@@ -1,24 +1,24 @@
 ### Hi there, I'm Niklas 👋
 
-- 🔭 I’m currently working on personal Website with Express.js, Handlebars & Payload CMS
-- 🌱 I’m currently learning Backend Development and Elixir
+- 🔭 I’m currently working on a personal Website
+- 🌱 I’m currently learning Backend Development and Software Achitecture
 - I'm interested in Functional Programming
 
 [![Top Langs on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=nstuder&hide=Handlebars)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Languages I Know:
+* Typescript/Javascript (Advanced)
 * Java (Advanced)
-* Javascript (Advanced)
 * Functional Programming (Intermediate)
 * C/C++ (Intermediate)
 * Python (Beginner)
+* Elixir (Beginner)
 
 #### Frameworks I Know:
-* Spring Boot
-* Express.js
-* Node.js
-* React, Angular
 * Nest.js
+* Express.js
+* Spring Boot
+* Vue/Nuxt, React, Angular
 * Apache Camel
 
 <!--
